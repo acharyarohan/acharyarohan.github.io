@@ -36,6 +36,8 @@ Let us know your thoughts below. And good luck with development!
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
+[!okay](https://hello.com/img_/hello_logo_white.png)
+
 
 ## Versions
 
